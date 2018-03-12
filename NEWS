@@ -1,0 +1,37 @@
+apt.cytoscan.2.4.0
+------------------
+
+v0.1.5 (20180310)
+-----------------
+* Added EXE extension to the windows binary (required for execution!).
+* Added missing options to multithreaded mode to properly handle messages (function and error messages)
+
+v0.1.4 (20180222)
+-----------------
+* Removed un-needed dependency (maelstrom).
+
+v0.1.3 (20171128)
+-----------------
+* Now build doesn't have to be in a valid list, to support by default newer annotations. A valid list is still available, but just as a warning state if not in.
+* Cleaned code a bit.
+* Added a check on CEL file existence.
+* Added thread-compatible messages.
+
+v0.1.2 (20170208)
+-----------------
+* Added a new parameter "dual.norm" that may allow a better wave-effect normalization (set to FALSE by default).
+* Reverted the behavior of "normal.diploid" which was set to TRUE when requested FALSE !!
+* Added an additional check in batch mode to verify that all CEL files actualy exist.
+* The APT log file is now kept
+
+v0.1.1 (20170206)
+-----------------
+* Added correct exec rights to binaries.
+
+v0.1.0 (20170124)
+-----------------
+* Repackaged version without affymetrix annotation data (exported to other packages).
+
+v0.0-1 (20161115)
+-----------------
+* First version.
