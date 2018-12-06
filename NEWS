@@ -1,6 +1,10 @@
 apt.cytoscan.2.4.0
 ------------------
 
+v0.1.6 (20180704)
+-----------------
+* Just updated tmsg().
+
 v0.1.5 (20180310)
 -----------------
 * Added EXE extension to the windows binary (required for execution!).

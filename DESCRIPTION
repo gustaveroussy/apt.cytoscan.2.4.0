@@ -2,9 +2,9 @@ Encoding: UTF-8
 Package: apt.cytoscan.2.4.0
 Type: Package
 Title: Affymetrix CytoScan processing using apt-copynumber-cyto-ssa (2.4.0)
-Version: 0.1.5
+Version: 0.1.6
 Author: Bastien Job [aut, cre]
-Date: 2018-03-12
+Date: 2018-07-04
 Maintainer: Bastien Job <bastien.job@inserm.fr>
 Description: Process CytoScan (750k, HD) CEL files using apt-copynumber-cyto-ssa (2.4.0 2015-08-28) from APT.
 Depends: R (>= 3.2.1)
